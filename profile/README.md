@@ -10,6 +10,11 @@
 This GitHub organization contains various projects related to security.
 
 ## Projects
+[**Microsoft CoPilot for Security**](https://github.com/securehats/security-copilot)
+
+A series of lessons for developing custom plugin's for Microsoft CoPilot for Security
+[link](https://github.com/securehats/security-copilot)
+
 
 [**AzWorkspaceManager**](https://github.com/securehats/AzWorkspaceManager)
 
