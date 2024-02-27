@@ -1,4 +1,4 @@
-![logo](./media/sh-banner.png)
+![logo](../media/sh-banner.png)
 =========
 [![Maintenance](https://img.shields.io/maintenance/yes/2023.svg?style=flat-square)]()
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)</br>
